@@ -1,0 +1,26 @@
+_repo: The-Manager-of-the-B-A-A-Novel_51953
+_version: 0.0.1
+alternative_title: 'The Manager of the B. and A.: A Novel'
+creator:
+  author:
+    agent_name: Kester, Vaughan
+    birthdate: 1869
+    deathdate: 1911
+    gutenberg_agent_id: '1707'
+    url: http://www.gutenberg.org/2009/agents/1707
+description: ''
+gutenberg_issued: '2016-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51953'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Railroad stories'
+- !lcc 'PS'
+- !lcsh 'American fiction'
+- GITenberg
+title: 'The Manager of the B. & A.: A Novel'
+url: http://www.gutenberg.org/ebooks/51953
