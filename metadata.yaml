@@ -1,6 +1,9 @@
 _repo: The-Manager-of-the-B-A-A-Novel_51953
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: 'The Manager of the B. and A.: A Novel'
+covers:
+- cover_type: archival
+  image_path: 51953-h/images/cover.jpg
 creator:
   author:
     agent_name: Kester, Vaughan
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '1707'
     url: http://www.gutenberg.org/2009/agents/1707
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51953#The-Manager-of-the-B-A-A-Novel
 gutenberg_issued: '2016-05-02'
 gutenberg_type: Text
 identifiers:
